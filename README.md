@@ -9,6 +9,23 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ilyasdaoudrma/gold-agent-control-room/releases/download/showcase-video/gold-agent-control-room.mp4"><img src="https://img.shields.io/badge/Film-2%3A09_%C2%B7_1080p-B8892B?style=for-the-badge&labelColor=221C12" alt="Film: 2:09, 1080p" /></a>
+  <a href="report/Gold-Agent-Technical-Report.pdf"><img src="https://img.shields.io/badge/Report-83_pages_%C2%B7_PDF-B8892B?style=for-the-badge&labelColor=221C12" alt="Technical report: 83 pages, PDF" /></a>
+  <img src="https://img.shields.io/badge/Demo-fake--money_MT5_account-3E8658?style=for-the-badge&labelColor=221C12" alt="Demo: fake-money MetaTrader 5 account" />
+  <img src="https://img.shields.io/badge/Source-private-8A7F69?style=for-the-badge&labelColor=221C12" alt="Source: private" />
+</p>
+
+<p align="center">
+  <a href="#watch-the-film">Film</a> &nbsp;·&nbsp;
+  <a href="#read-the-technical-report">Report</a> &nbsp;·&nbsp;
+  <a href="#how-the-team-works">The team</a> &nbsp;·&nbsp;
+  <a href="#the-control-room">Screens</a> &nbsp;·&nbsp;
+  <a href="#safety-is-the-design-not-a-feature">Safety</a> &nbsp;·&nbsp;
+  <a href="#results--measured-not-promised">Results</a> &nbsp;·&nbsp;
+  <a href="#contact">Contact</a>
+</p>
+
+<p align="center">
   <sub>Project showcase &nbsp;·&nbsp; Source code is private &nbsp;·&nbsp; Not open source &nbsp;·&nbsp; Not investment advice</sub>
 </p>
 
@@ -96,6 +113,14 @@ flowchart LR
 
 More on each agent: [docs/agents.md](docs/agents.md)
 
+## The project in numbers
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **12**<br/><sub>agents in the team</sub> | **16**<br/><sub>screens in the control room</sub> | **12**<br/><sub>fixed risk rules</sub> | **38**<br/><sub>data-quality rules</sub> |
+| **4 × 3**<br/><sub>strategy families × timeframes tested</sub> | **21 years**<br/><sub>of H4 gold history</sub> | **860+**<br/><sub>backend test cases</sub> | **15**<br/><sub>end-to-end journeys in the real app</sub> |
+| **~4 months**<br/><sub>July → November 2026</sub> | **24/5**<br/><sub>unattended on an AWS server</sub> | **41**<br/><sub>design documents</sub> | **0**<br/><sub>live-money orders, by design</sub> |
+
 ## The control room
 
 <table>
@@ -151,6 +176,14 @@ Desktop control room in Electron and React · Python agent service with a REST a
 
 This repository **presents** the project. It contains no source code, no installer and no setup instructions, and none will be published. Gold Agent is a private project and is not open source.
 
-If you are a trader, a prop firm or a team interested in the system — licensing, a private demo, or custom work — **get in touch through [my GitHub profile](https://github.com/ilyasdaoudrma)**.
+## Contact
 
-<sub>© 2026 Ilyas Daoud. All rights reserved. Simulation and demo results only. Nothing here is investment advice or a promise of performance.</sub>
+If you are a trader, a prop firm or a team interested in the system — a private demo, licensing or custom work — contact me:
+
+<p>
+  <a href="https://www.linkedin.com/in/ilyas-daoud-el-asmi-0a531039b"><img src="https://img.shields.io/badge/LinkedIn-Ilyas_Daoud_El_Asmi-B8892B?style=for-the-badge&logo=linkedin&logoColor=B8892B&labelColor=221C12" alt="LinkedIn" /></a>
+  <a href="mailto:idaoud361@gmail.com"><img src="https://img.shields.io/badge/Email-idaoud361@gmail.com-B8892B?style=for-the-badge&logo=gmail&logoColor=B8892B&labelColor=221C12" alt="Email" /></a>
+  <a href="https://github.com/ilyasdaoudrma"><img src="https://img.shields.io/badge/GitHub-ilyasdaoudrma-B8892B?style=for-the-badge&logo=github&logoColor=B8892B&labelColor=221C12" alt="GitHub profile" /></a>
+</p>
+
+<sub>© 2026 Ilyas Daoud El Asmi. All rights reserved. Simulation and demo results only. Nothing here is investment advice or a promise of performance.</sub>
