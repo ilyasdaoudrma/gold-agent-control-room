@@ -18,6 +18,18 @@
 
 ---
 
+## Watch the film
+
+<p align="center">
+  <a href="https://github.com/ilyasdaoudrma/gold-agent-control-room/releases/download/showcase-video/gold-agent-control-room.mp4">
+    <img src="media/video/poster.png" alt="Poster of the Gold Agent — Control Room film. Select it to open the video." width="900" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Two-minute film &nbsp;·&nbsp; 2:09, 1080p, MP4 (93 MB) &nbsp;·&nbsp; English subtitles &nbsp;·&nbsp; Voice and sound effects by <a href="https://elevenlabs.io">ElevenLabs</a></sub>
+</p>
+
 ## The problem
 
 Learning to trade gold well takes months, often years, and most people pay for that time twice: once in hours spent watching charts, and again in money lost while learning. The work itself is repetitive and unforgiving. Someone has to check the data is fresh, read the market regime, look for setups, weigh the news, size the risk, place the order, manage it and keep a record — every fifteen minutes, without fatigue and without breaking the rules after a losing streak.
