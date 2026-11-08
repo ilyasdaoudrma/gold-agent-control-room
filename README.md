@@ -30,6 +30,19 @@
   <sub>Two-minute film &nbsp;·&nbsp; 2:09, 1080p, MP4 (93 MB) &nbsp;·&nbsp; English subtitles &nbsp;·&nbsp; Voice and sound effects by <a href="https://elevenlabs.io">ElevenLabs</a></sub>
 </p>
 
+## Read the technical report
+
+<p align="center">
+  <a href="report/Gold-Agent-Technical-Report.pdf">
+    <img src="media/report/report-preview.png" alt="Cover, executive summary and a results page of the Gold Agent technical report. Select it to open the PDF." width="900" />
+  </a>
+</p>
+
+<p align="center">
+  <b><a href="report/Gold-Agent-Technical-Report.pdf">Gold Agent — Control Room: Technical Report (PDF)</a></b><br/>
+  <sub>83 pages &nbsp;·&nbsp; 22 chapters &nbsp;·&nbsp; the problem, the twelve agents, the risk and measurement maths, cloud operations, every incident, every result — losses and retracted results included</sub>
+</p>
+
 ## The problem
 
 Learning to trade gold well takes months, often years, and most people pay for that time twice: once in hours spent watching charts, and again in money lost while learning. The work itself is repetitive and unforgiving. Someone has to check the data is fresh, read the market regime, look for setups, weigh the news, size the risk, place the order, manage it and keep a record — every fifteen minutes, without fatigue and without breaking the rules after a losing streak.
@@ -132,7 +145,7 @@ The H4 backtest is the only positive result, and on historical data it is not ye
 
 ## Built with
 
-Desktop control room in Electron and React · Python agent service with a REST and WebSocket event stream · SQLite audit store · MetaTrader 5 demo bridge on an AWS server reached through a private, read-only tunnel · a language model for the macro and news read. Architecture overview: [docs/architecture.md](docs/architecture.md) · Product specification: [docs/specification.md](docs/specification.md)
+Desktop control room in Electron and React · Python agent service with a REST and WebSocket event stream · SQLite audit store · MetaTrader 5 demo bridge on an AWS server reached through a private, read-only tunnel · a language model for the macro and news read. Architecture overview: [docs/architecture.md](docs/architecture.md) · Product specification: [docs/specification.md](docs/specification.md) · Full technical report: [PDF](report/Gold-Agent-Technical-Report.pdf)
 
 ## About this repository
 
